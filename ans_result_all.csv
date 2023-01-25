@@ -1,0 +1,2 @@
+,analysis1,analysis2,analysis3,analysis4,analysis5,analysis6,analysis7,analysis8
+0,182,784,Texas,"['NISSAN', 'HONDA', 'GMC', 'HYUNDAI', 'KIA', 'JEEP', 'CHRYSLER', 'MAZDA', 'NA', 'VOLKSWAGEN', 'PONTIAC']",find answer in output5.csv,"[None, '76010', '78521', '75067', '78130']",0,"['FORD', 'CHEVROLET', 'DODGE', 'TOYOTA', 'NISSAN']"
