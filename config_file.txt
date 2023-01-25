@@ -1,0 +1,10 @@
+{
+	"charges_table":"C:\\Users\\kaise\\Desktop\\pyspark-bcg-app-final\\input\\Charges_use.csv",
+	"damages_table":"C:\\Users\\kaise\\Desktop\\pyspark-bcg-app-final\\input\\Damages_use.csv",
+	"endorse_table":"C:\\Users\\kaise\\Desktop\\pyspark-bcg-app-final\\input\\Endorse_use.csv",
+	"primary_person":"C:\\Users\\kaise\\Desktop\\pyspark-bcg-app-final\\input\\Primary_Person_use.csv",
+	"restrict_table":"C:\\Users\\kaise\\Desktop\\pyspark-bcg-app-final\\input\\Restrict_use.csv",
+	"unit_table":"C:\\Users\\kaise\\Desktop\\pyspark-bcg-app-final\\input\\Units_use.csv",
+	"save_result_5":"C:\\Users\\kaise\\Desktop\\pyspark-bcg-app-final\\output\\output5.csv",
+	"save_result_all":"C:\\Users\\kaise\\Desktop\\pyspark-bcg-app-final\\output\\ans_result_all.csv"
+}
